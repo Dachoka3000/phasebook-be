@@ -1,0 +1,59 @@
+{
+    "messages": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "image": "https://images.pexels.com/photos/2519217/pexels-photo-2519217.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "message": "I liked the phase"
+      },
+      {
+        "id": 2,
+        "name": "Mark Masai",
+        "image": "https://images.pexels.com/photos/1848731/pexels-photo-1848731.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "message": "I liked hanging out with my friends"
+      },
+      {
+        "id": 3,
+        "name": "Mr Bean",
+        "image": "https://images.pexels.com/photos/3775128/pexels-photo-3775128.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "message": "The mentors are amazing"
+      },
+      {
+        "id": 4,
+        "name": "Hana Banana",
+        "image": "https://images.pexels.com/photos/935948/pexels-photo-935948.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "message": "The content is challenging"
+      },
+      {
+        "id": 5,
+        "name": "Paul Walker",
+        "image": "https://images.pexels.com/photos/3776190/pexels-photo-3776190.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "message": "It was an ok experience"
+      },
+      {
+        "id": 1671541790651,
+        "name": "Daisy M",
+        "image": "https://images.pexels.com/photos/798721/pexels-photo-798721.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "message": "This is a good course"
+      },
+      {
+        "id": 1671541865223,
+        "name": "Juma M",
+        "image": "https://images.pexels.com/photos/2826131/pexels-photo-2826131.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "message": "It's a nice school"
+      },
+      {
+        "id": 1671571229214,
+        "name": "Maryanne Masika",
+        "image": "https://images.pexels.com/photos/6474814/pexels-photo-6474814.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "message": "I am happy with the course"
+      },
+      
+      {
+        "id": 1671572862864,
+        "name": "Honey Bunny",
+        "image": "https://images.pexels.com/photos/798721/pexels-photo-798721.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "message": "Life goes on"
+      }
+    ]
+  }
